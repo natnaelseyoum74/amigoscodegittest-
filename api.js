@@ -1,1 +1,2 @@
-export const foo=[{name:"tom"}]
+export const foo=[{name:"tom"}];
+
